@@ -1,7 +1,7 @@
 
-  # Campus Services
+  # UniServe
 
-  This is a code bundle for Campus Services. The original project is available at https://www.figma.com/design/PTcm7Dg0ozfzWHxKrwMHYt/Campus-Services.
+  This is a code bundle for UniServe. The original project is available at https://www.figma.com/design/PTcm7Dg0ozfzWHxKrwMHYt/Campus-Services.
 
   ## Running the code
 
